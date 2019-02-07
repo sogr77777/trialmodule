@@ -1,0 +1,15 @@
+{
+  "name": "sogr77777-trialmodule",
+  "version": "0.1.0",
+  "author": "sogr77777",
+  "project_page": null,
+  "issues_url": null,
+  "summary": "A trial module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/sogr77777/trialmodule.git",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
